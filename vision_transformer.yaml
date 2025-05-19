@@ -1,0 +1,10 @@
+
+  type: vision_transformer   # 或 improved_vit
+  img_height: 48
+  img_width: 72
+  patch_size: 8
+  embed_dim: 256
+  depth: 6
+  num_heads: 8
+  mlp_ratio: 4
+  dropout_rate: 0.1
